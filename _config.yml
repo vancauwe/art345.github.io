@@ -8,16 +8,8 @@ description: We are a group of three EPFL students from Applied Data Analysis co
 
 # List of links in the navigation bar
 navbar-links:
-  About RECON:
-    - What we do: ""
-    - Join us: "join"
-    - Contact: "contact"
-  News: "blog"
-  People: "people"
-  Projects: "projects"
+  About us: "page"
   Resources: "resources"
-  Events: "events"
-  Forum: "forum"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
