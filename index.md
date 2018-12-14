@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Story telling through data
+subtitle: Nicky Minaj approved.
 ---
 
 Hello everybody ! This is a datastory about the movement #metoo.
